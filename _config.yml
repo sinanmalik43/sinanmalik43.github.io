@@ -22,7 +22,7 @@ repository               : "sinanmalik43/sinanmalik.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg"
+  avatar           : "1.png"
   name             : "Muhammed Sinan Malik"
   pronouns         : # example: "she/her"  
   bio              : "Systems Neuroscience|writes @preLights"
