@@ -9,28 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
+* M.S. in Zoology, Periyar University, 2023
+* B.S. in Zoology, Kannur University, 2021
 
 Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+---
+* April 2024 - March 25: Research Intern
+  * calicut University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Professor Binu R
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* June - july 2024: Virtual Research Intern
+  * Harvard University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Engert and Professor Litchmen
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* 2022 - 2023: MS Dissertation
+  * Periyar University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor R Maheswaran
   
 Skills
 ======
@@ -46,18 +46,7 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
