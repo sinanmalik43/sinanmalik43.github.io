@@ -2,9 +2,8 @@
 title: "Social maintenance masks induced aggression in zebrafish"
 collection: publications
 category: manuscripts
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-12-18
-venue: 'Under Revision in Scientific Reports'
+venue: 'in Research Square - Under Revision in Scientific Reports'
 paperurl: 'https://www.researchsquare.com/article/rs-5666977/v1'
 citation: 'Kuniyil, A. A., Malik, M. S., Sivarajan, D., Amar, A., Chathooth, N., & Ramachandran, B. (2024). Social maintenance masks induced aggression in zebrafish'
 ---
