@@ -2,7 +2,7 @@
 title: "Social maintenance masks induced aggression in zebrafish"
 collection: publications
 category: manuscripts
-excerpt: 'Hi.'
+excerpt: ''
 date: 2024-12-18
 venue: 'in Research Square - Under Revision in Scientific Reports'
 paperurl: 'https://www.researchsquare.com/article/rs-5666977/v1'
