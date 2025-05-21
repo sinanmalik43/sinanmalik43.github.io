@@ -41,4 +41,4 @@ Publications
 
 Outreach
 ---
-* Currently part of the prelight community (The Company of Biologist) Link: <a href="https://prelights.biologists.com/profiles/sinanmalik43/">https://prelights.biologists.com/profiles/sinanmalik43/</a>.
+* Currently part of the prelight community (The Company of Biologist) <a href="https://prelights.biologists.com/profiles/sinanmalik43/">Link</a>.
