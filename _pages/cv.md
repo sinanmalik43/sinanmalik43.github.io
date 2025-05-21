@@ -18,36 +18,27 @@ Education
 Work experience
 ---
 * April 2024 - March 25: Research Intern
-  * calicut University
-  * Duties includes: Updates and improvements to template
+  * University of Calicut
   * Supervisor: Professor Binu R
 
-* June - july 2024: Virtual Research Intern
+* June - July 2024: Virtual Research Intern
   * Harvard University
-  * Duties included: Merging pull requests
   * Supervisor: Professor Engert and Professor Litchmen
 
 * 2022 - 2023: MS Dissertation
   * Periyar University
-  * Duties included: Tagging issues
   * Supervisor: Professor R Maheswaran
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* 2020 - 2021: BS Dissertation
+  * Kannur University
+  * Supervisor: Professor RMS Shamsudheen
 
 Publications
-======
+---
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Outreach
+---
+* Currently part of the prelight community (The Company of Biologist) Link: <a href="https://prelights.biologists.com/profiles/sinanmalik43/">https://prelights.biologists.com/profiles/sinanmalik43/</a>.
