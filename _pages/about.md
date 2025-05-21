@@ -13,6 +13,7 @@ I am Sinan Malik, and I recently completed my master's degree in Biology from Pe
 
 
 
-Thousands of axons (blue) connect to a single neuron (white); two cells meet at junctions known as synapses (green).
+
+###Thousands of axons (blue) connect to a single neuron (white); two cells meet at junctions known as synapses (green). [Lichtman Lab (Harvard University) & Google Research. Renderings by D. Berger (Harvard University)###
 
 ![Lichtman Lab (Harvard University) & Google Research. Renderings by D. Berger (Harvard University)](/images/t1.png)
