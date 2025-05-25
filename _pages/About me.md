@@ -5,7 +5,6 @@ permalink: /about me/
 author_profile: true
 
 
-
 About me
 ===
 
@@ -13,6 +12,3 @@ I am Sinan Malik, and I recently completed my master’s degree in Biology from 
 
 ---
 
-Outreach
----
-* Currently part of the prelight community (The Company of Biologist) <a href="https://prelights.biologists.com/profiles/sinanmalik43/">Link</a>.
