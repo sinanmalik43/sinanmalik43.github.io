@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-09-17-Hunger Shapes Predator Avoidance Behaviour in Zebrafish
 excerpt: ''
-date: 2024-09-17
-venue: 'Research Square - Acccepted in Ethology Ecology & Evolution'
+date: 2025-09-17
+venue: 'Ethology Ecology & Evolution - Acccepted (in press)'
 paperurl: 'https://www.researchsquare.com/article/rs-4925537/v1'
 citation: 'Chathooth, N., Chalil, Malik. M. S., Sivarajan, D., Kuniyil, A. A., & Ramachandran, B. (2025). Hunger Shapes Predator Avoidance Behaviour in Zebrafishh.'
 ---
