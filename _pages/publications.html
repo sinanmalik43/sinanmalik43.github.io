@@ -32,5 +32,21 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
+{% comment %}
+Show the venue exactly as written in front matter (no "Published in" prefix).
+Also append the year from the date if available.
+{% endcomment %}
+{% if post.venue %}
+  <p class="pub-venue">{{ post.venue }}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}</p>
+{% endif %}
+
+{% if post.citation %}
+  <p class="pub-citation">Recommended citation: {{ post.citation }}</p>
+{% endif %}
+
+{% if post.paperurl %}
+  <p><a class="button" href="{{ post.paperurl | relative_url }}" target="_blank" rel="noopener">Download Paper</a></p>
+{% endif %}
+
 
 
