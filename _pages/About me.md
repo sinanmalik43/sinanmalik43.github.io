@@ -8,5 +8,8 @@ author_profile: true
 ## About me
 ------
 
-I am Sinan Malik, and I recently completed my master’s degree in Biology from Periyar University, Salem, India . I am currently a research intern in Dr. Binu’s Neuronal Plasticity Group, where I explore behavioral plasticity and examine the learning processes of larval zebrafish. I am passionate about the neuronal mechanisms underlying visually guided behavior and multisensory integration, aiming to understand how neuronal circuits integrate sensory inputs and internal state and convert this information into behavioral responses.
+Hi! I am Sinan Malik. I recently completed my Master’s degree in Biology from PU, India and a research internship in Dr. Binu’s Neuronal Plasticity Group, where I contributed to projects on social behavior and behavioral plasticity in zebrafish. I am a passionate neuroscientist studying how neural circuits integrate sensory inputs and internal states to generate behavior. #zebrafishrocks
+
+
+“Success doesn’t really interest me anymore, it’s too easy. Like, analysis plus capital plus execution — anyone can do that. But failure, that’s a secret. Just as much failure as possible, as fast as possible" - Lukas Matsson
 
