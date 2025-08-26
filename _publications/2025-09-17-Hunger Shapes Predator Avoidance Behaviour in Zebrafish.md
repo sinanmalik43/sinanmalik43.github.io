@@ -2,7 +2,6 @@
 title: "Hunger Shapes Predator Avoidance Behaviour in Zebrafish"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-09-17-Hunger Shapes Predator Avoidance Behaviour in Zebrafish
 excerpt: ''
 date: 2025-09-17
 venue: 'Ethology Ecology & Evolution - Acccepted (in press)'
