@@ -13,3 +13,6 @@ Hi there! I am Sinan Malik. I recently completed my Master’s degree in Biology
 
 
 
+
+
+所懸命 (Issho kenmei)
