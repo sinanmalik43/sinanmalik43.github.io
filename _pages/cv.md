@@ -17,11 +17,11 @@ Education
 
 Work experience
 ---
-* April 2024 - March 25: Research Intern
+* April 2024 - March 2025: Research Intern
   * University of Calicut
   * Supervisor: Professor Binu R
 
-* June - July 2024: Virtual Research Intern
+* June 2024 - July 2024: Virtual Research Intern
   * Harvard University
   * Supervisor: Professor Engert and Professor Litchmen
 
