@@ -17,6 +17,10 @@ Education
 
 Work experience
 ---
+* October 2025 - Present : Research Assistant
+  * HKUST
+  * Supervisor: Dr. Julie Semmelhack
+
 * April 2024 - March 2025: Research Intern
   * University of Calicut
   * Supervisor: Professor Binu R
