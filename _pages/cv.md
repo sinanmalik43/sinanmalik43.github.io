@@ -48,6 +48,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Outreach
+Preprint highlights: 
 ---
 * Currently part of the prelight community (The Company of Biologist) <a href="https://prelights.biologists.com/profiles/sinanmalik43/">Link</a>.
