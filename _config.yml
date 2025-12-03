@@ -25,7 +25,8 @@ author:
   avatar           : "1.png"
   name             : "Muhammed Sinan Malik"
   pronouns         : # example: "she/her"  
-  bio              : "Systems Neuroscience  writes @preLights"
+  bio              : "Systems Neuroscience"  
+                     "writes @preLights"
   location         : "Hong Kong, HK"
   employer         : "HKUST"
   uri              : # URL
