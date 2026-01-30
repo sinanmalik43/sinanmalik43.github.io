@@ -52,6 +52,7 @@ Preprint highlights:
 ---
 Part of the preLights community (The Company of Biologist)
 
+* Neural basis of number sense in zebrafish – <a href="https://prelights.biologists.com/highlights/neural-basis-of-number-sense-in-larval-zebrafish/">Link</a>.
 * A zebrafish circuit for behavioral credit assignment – <a href="https://prelights.biologists.com/highlights/a-zebrafish-circuit-for-behavioral-credit-assignment-2/">Link</a>.
 * A topographic code for behavioral flexibility? – <a href="https://prelights.biologists.com/highlights/topographically-organized-dorsal-raphe-activity-modulates-forebrain-sensory-motor-computations-and-adaptive-behaviors/">Link</a>.
 * Molecular road map of functionally defined optic-flow circuits – <a href="https://prelights.biologists.com/highlights/molecular-and-functional-dissection-using-campari-seq-reveals-the-neuronal-organization-for-dissociating-optic-flow-dependent-behaviors/">Link</a>.
