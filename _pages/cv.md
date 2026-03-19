@@ -42,11 +42,6 @@ Courses
 * RIKEN CBS Summer Program Neural Circuits: Coding, Computation and Cognition (RIKEN CBS), Japan 2025 
 * IRCN & Chen Institute Joint Course on Neuro-inspired Computation (University of Tokyo), Japan 2025
 
-#Publications
----
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Preprint highlights: 
 ---
