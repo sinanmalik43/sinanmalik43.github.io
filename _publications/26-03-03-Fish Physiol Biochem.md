@@ -8,7 +8,7 @@ excerpt: ''
 date: 2026-03-03
 venue: 'Fish Physiol Biochem'
 paperurl: 'https://doi.org/10.1007/s10695-026-01664-6'
-citation: 'Devapriya, P., Malik, M.S., Kalpana, M. et al. Biological alterations of polyvinyl chloride (PVC) microplastics on Danio rerio at environmentally relevant concentrations – risk assessment. Fish Physiol Biochem 52, 38 (2026). https://doi.org/10.1007/s10695-026-01664-6'
+#citation: 'Devapriya, P., Malik, M.S., Kalpana, M. et al. Biological alterations of polyvinyl chloride (PVC) microplastics on Danio rerio at environmentally relevant concentrations – risk assessment. Fish Physiol Biochem 52, 38 (2026). https://doi.org/10.1007/s10695-026-01664-6'
 ---
 
 (MPs) are one of the fastest-growing sources of pollution and have become a substantial risk to both the environment and human health. Hence, the present investigation was conducted to assess the potential toxic effects of Polyvinyl chloride (PVC) MPs (Treatment I- 3 µg/L and Treatment II- 30 µg/L) on D. rerio for 20 days. The PVC-MPs were characterised by SEM, XRD, DLS and FTIR analyses, and their presence was confirmed in the gastrointestinal tract of the fish. When compare to the control group, the studied locomotive, behavioural, blood (haematology) and tissue (gill, gut and brain) biomarkers (SOD, GST, GPx, LPO, AChE, histopathology) were altered significantly (P<0.05) in the PVC-MPs treatment groups. Locomotive and behavioural responses declined. Among the blood biomarkers, RBC counts were increased significantly in the PVC-MPs treatments. Whereas, WBC counts were decreased. Tissue (gill, gut and brain) SOD and GPx activity was accelerated in the PVC-MPs treated
