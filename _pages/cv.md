@@ -18,19 +18,24 @@ Education
 Work experience
 ---
 * October 2025 - Present : RA
-  * HKUST * Supervisor: Dr. Julie Semmelhack
+  * HKUST
+  * Supervisor: Dr. Julie Semmelhack
 
 * April 2024 - March 2025: Research Intern
-  * University of Calicut * Supervisor: Professor Binu R
+  * University of Calicut
+  * Supervisor: Professor Binu R
 
 * June 2024 - July 2024: Virtual Research Intern
-  * Harvard University * Supervisor: Professor Engert and Professor Litchmen
+  * Harvard University
+  * Supervisor: Professor Engert and Professor Litchmen
 
 * 2022 - 2023: MS Dissertation
-  * Periyar University * Supervisor: Professor R Maheswaran
+  * Periyar University
+  *  Supervisor: Professor R Maheswaran
 
 * 2020 - 2021: BS Dissertation
-  * Kannur University * Supervisor: Professor RMS Shamsudheen
+  * Kannur University
+  * Supervisor: Professor RMS Shamsudheen
 
 Courses
 ---
