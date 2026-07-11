@@ -25,10 +25,6 @@ Work experience
   * University of Calicut
   * Supervisor: Professor Binu R
 
-* June 2024 - July 2024: Virtual Research Intern
-  * Harvard University
-  * Supervisor: Professor Engert and Professor Litchmen
-
 * 2022 - 2023: MS Dissertation
   * Periyar University
   *  Supervisor: Professor R Maheswaran
